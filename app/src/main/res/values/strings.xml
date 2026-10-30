@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Academic Mobile</string>
+
+    <!-- Autenticación -->
+    <string name="login_title">Bienvenido a Academic</string>
+    <string name="login_subtitle">Inicia sesión para gestionar tus materias y tareas</string>
+    <string name="label_email">Correo electrónico</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_nombre">Nombre completo</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_go_to_register">¿No tienes cuenta? Regístrate</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_subtitle">Completa tus datos para unirte a Academic</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="btn_go_to_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="logout_confirm_title">Cerrar sesión</string>
+    <string name="logout_confirm_message">¿Deseas cerrar tu sesión actual?</string>
+
+    <!-- Navegación -->
+    <string name="nav_materias">Materias</string>
+    <string name="nav_tareas">Tareas</string>
+
+    <!-- Materias -->
+    <string name="materias_empty">Aún no tienes materias registradas.\nPulsa el botón + para agregar una.</string>
+    <string name="nueva_materia">Nueva materia</string>
+    <string name="label_nombre_materia">Nombre de la materia</string>
+    <string name="label_codigo_materia">Código (ej. MAT101)</string>
+    <string name="label_semestre_materia">Semestre (ej. 2026-1)</string>
+    <string name="label_descripcion_materia">Descripción (opcional)</string>
+    <string name="materia_creada">Materia creada correctamente</string>
+
+    <!-- Tareas -->
+    <string name="tareas_empty">No hay tareas para el filtro seleccionado.</string>
+    <string name="nueva_tarea">Nueva tarea</string>
+    <string name="detalle_tarea">Detalle de tarea</string>
+    <string name="label_titulo_tarea">Título de la tarea</string>
+    <string name="label_descripcion_tarea">Descripción (opcional)</string>
+    <string name="label_materia">Materia</string>
+    <string name="label_prioridad">Prioridad</string>
+    <string name="label_fecha_entrega">Fecha y hora de entrega</string>
+    <string name="btn_seleccionar_fecha">Seleccionar fecha y hora</string>
+    <string name="btn_guardar_tarea">Guardar tarea</string>
+    <string name="btn_marcar_en_progreso">Marcar en progreso</string>
+    <string name="btn_marcar_completada">Marcar como completada</string>
+    <string name="btn_eliminar_tarea">Eliminar tarea</string>
+    <string name="confirmar_eliminar_tarea">¿Seguro que deseas eliminar esta tarea?</string>
+    <string name="tarea_creada">Tarea creada correctamente</string>
+    <string name="tarea_actualizada">Estado de la tarea actualizado</string>
+    <string name="tarea_eliminada">Tarea eliminada</string>
+    <string name="sin_fecha_entrega">Sin fecha de entrega definida</string>
+    <string name="sin_descripcion">Sin descripción adicional</string>
+    <string name="limpiar_filtro_materia">Quitar filtro de materia</string>
+
+    <!-- Filtros de estado -->
+    <string name="filtro_todas">Todas</string>
+    <string name="filtro_pendientes">Pendientes</string>
+    <string name="filtro_en_progreso">En progreso</string>
+    <string name="filtro_completadas">Completadas</string>
+
+    <!-- Prioridades -->
+    <string name="prioridad_baja">Baja</string>
+    <string name="prioridad_media">Media</string>
+    <string name="prioridad_alta">Alta</string>
+
+    <!-- Estados -->
+    <string name="estado_pendiente">Pendiente</string>
+    <string name="estado_en_progreso">En progreso</string>
+    <string name="estado_completada">Completada</string>
+
+    <!-- Acciones comunes -->
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="reintentar">Reintentar</string>
+    <string name="error_red">No fue posible conectar con el servidor. Verifica tu conexión.</string>
+    <string name="error_requiere_materia">Primero debes registrar al menos una materia para crear tareas.</string>
+</resources>

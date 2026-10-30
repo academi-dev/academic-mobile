@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta principal Material 3 de Academic Mobile -->
+    <color name="md_theme_primary">#1E40AF</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#DBEAFE</color>
+    <color name="md_theme_onPrimaryContainer">#1E3A8A</color>
+
+    <color name="md_theme_secondary">#0F766E</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_secondaryContainer">#CCFBF1</color>
+    <color name="md_theme_onSecondaryContainer">#134E4A</color>
+
+    <color name="md_theme_background">#F8FAFC</color>
+    <color name="md_theme_onBackground">#0F172A</color>
+    <color name="md_theme_surface">#FFFFFF</color>
+    <color name="md_theme_onSurface">#0F172A</color>
+    <color name="md_theme_surfaceVariant">#E2E8F0</color>
+    <color name="md_theme_onSurfaceVariant">#475569</color>
+
+    <color name="md_theme_error">#DC2626</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+
+    <!-- Colores semánticos para prioridades y estados -->
+    <color name="priority_high">#DC2626</color>
+    <color name="priority_high_bg">#FEE2E2</color>
+    <color name="priority_medium">#D97706</color>
+    <color name="priority_medium_bg">#FEF3C7</color>
+    <color name="priority_low">#059669</color>
+    <color name="priority_low_bg">#D1FAE5</color>
+
+    <color name="status_pending">#64748B</color>
+    <color name="status_in_progress">#2563EB</color>
+    <color name="status_completed">#16A34A</color>
+
+    <color name="ic_launcher_background">#1E40AF</color>
+</resources>
