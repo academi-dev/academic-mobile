@@ -170,11 +170,11 @@ El APK compilado se ubicará en `app/build/outputs/apk/debug/app-debug.apk`.
       <a href="https://github.com/hilton45">@hilton45</a>
     </td>
     <td align="center">
-      <a href="https://github.com/eyfer3174-commits-commits">
-        <img src="https://github.com/eyfer3174-commits-commits.png" width="100px;" alt="Eyfer Mena" style="border-radius:50%;"/><br />
+      <a href="https://github.com/eyfer3174-commits">
+        <img src="https://github.com/eyfer3174-commits.png" width="100px;" alt="Eyfer Mena" style="border-radius:50%;"/><br />
         <sub><b>Eyfer Mena</b></sub>
       </a><br />
-      <a href="https://github.com/eyfer3174-commits-commits">@eyfer3174-commits</a>
+      <a href="https://github.com/eyfer3174-commits">@eyfer3174-commits</a>
     </td>
   </tr>
 </table>
