@@ -1,6 +1,6 @@
 # Academic Mobile 📱🎓
 
-[![CI/CD](https://img.shields.io/github/actions/workflow/status/academic-dev/academic-mobile/ci.yml?branch=main&style=for-the-badge&logo=github-actions&logoColor=white&label=CI%2FCD)](https://github.com/academic-dev/academic-mobile)
+[![CI/CD](https://img.shields.io/github/actions/workflow/status/academic-dev/academic-mobile/ci.yml?branch=main&style=for-the-badge&logo=github-actions&logoColor=white&label=CI%2FCD)](https://github.com/academi-dev/academic-mobile)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.24-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Android SDK](https://img.shields.io/badge/Android_SDK-API_34-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
 [![Arquitectura](https://img.shields.io/badge/Architecture-MVVM-blueviolet?style=for-the-badge)](https://developer.android.com/topic/architecture)
@@ -170,11 +170,11 @@ El APK compilado se ubicará en `app/build/outputs/apk/debug/app-debug.apk`.
       <a href="https://github.com/hilton45">@hilton45</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Eyfer3174">
-        <img src="https://github.com/Eyfer3174.png" width="100px;" alt="Eyfer Mena" style="border-radius:50%;"/><br />
+      <a href="https://github.com/eyfer3174-commits-commits">
+        <img src="https://github.com/eyfer3174-commits-commits.png" width="100px;" alt="Eyfer Mena" style="border-radius:50%;"/><br />
         <sub><b>Eyfer Mena</b></sub>
       </a><br />
-      <a href="https://github.com/Eyfer3174">@Eyfer3174</a>
+      <a href="https://github.com/eyfer3174-commits-commits">@eyfer3174-commits</a>
     </td>
   </tr>
 </table>
